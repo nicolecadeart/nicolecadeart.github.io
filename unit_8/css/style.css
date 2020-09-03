@@ -188,9 +188,13 @@ ul {
 	}
 	article {
 	    display: block;
+	    align-items: center;
+	    margin: 3em;
 	}
 
 	aside {
 	    display: block;
+	    align-items: center;
+	    margin: 3em;
 	}
 }
